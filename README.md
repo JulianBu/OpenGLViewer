@@ -2,6 +2,7 @@
 Implementierung eines OpenGL Viewers mit Echtzeit rendering eines eingelesen Objects. 
 
 Im Rahmen einer Abgabe im Modul Generative Computergrafik sollte ein kleiner OpenGL Viewer in Python implementiert werden. 
+Für den Input per Tastatur und Maus wurde glfw benutzt. 
 Das Programm lässt sich via Kommandozeile mit "Renderwindow.py .obj-Filename" starten. Alternativ geht es auch ohne File und 
 das Default Bunny wird geladen. 
 
